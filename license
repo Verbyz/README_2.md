@@ -1,0 +1,7 @@
+touch LICENSE
+nano LICENSE
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+git add LICENSE
+git commit -m "Add MIT license"
