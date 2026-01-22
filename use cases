@@ -9,3 +9,7 @@ AI-generated ads and promos.
 Explainer and tutorial videos.
 git add use-cases.md
 git commit -m "Add initial use cases"
+## Business
+Corporate presentations and internal videos.
+git add use-cases.md
+git commit -m "Add business use case"
