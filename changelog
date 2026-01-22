@@ -1,0 +1,8 @@
+touch CHANGELOG.md
+nano CHANGELOG.md
+# Changelog
+
+## v0.1.0
+- Initial public release
+git add CHANGELOG.md
+git commit -m "Add changelog"
