@@ -9,3 +9,9 @@ nano workflow.md
 5. Publishing
 git add workflow.md
 git commit -m "Add AI video workflow"
+## Automation
+- Reusable prompts
+- Batch generation
+- Version control
+git add workflow.md
+git commit -m "Expand workflow with automation steps"
