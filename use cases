@@ -1,0 +1,11 @@
+touch use-cases.md
+nano use-cases.md
+# Use Cases
+
+## Marketing
+AI-generated ads and promos.
+
+## Education
+Explainer and tutorial videos.
+git add use-cases.md
+git commit -m "Add initial use cases"
