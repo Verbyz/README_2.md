@@ -6,3 +6,7 @@ See workflow.md for the full production process.
 Use cases are documented in use-cases.md
 git add README.md
 git commit -m "Reference documented use cases"
+Project is actively maintained and evolving.
+git add README.md
+git commit -m "Minor documentation polish"
+git push
