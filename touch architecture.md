@@ -6,6 +6,10 @@ nano architecture.md
 - Prompt library
 - Workflow definitions
 - Use case examples
+## Design Principles
+- Simplicity
+- Reusability
+- Scalability
 
 
 
