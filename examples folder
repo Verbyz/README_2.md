@@ -1,0 +1,8 @@
+mkdir examples
+touch examples/README.md
+nano examples/README.md
+# Examples
+
+This folder will contain example prompts and workflows.
+git add examples
+git commit -m "Add examples directory"
