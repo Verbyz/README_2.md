@@ -1,0 +1,12 @@
+touch faq.md
+nano faq.md
+# FAQ
+
+## Is coding required?
+No, prompts and workflows are text-based.
+
+## Can this be monetized?
+Yes, through freelance or agency services.
+git add faq.md
+git commit -m "Add FAQ documentation"
+
