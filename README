@@ -2,3 +2,4 @@
 This project is open for collaboration and contributions.
 git add README.md
 git commit -m "Document open source status"
+See workflow.md for the full production process.
