@@ -9,4 +9,8 @@ No, prompts and workflows are text-based.
 Yes, through freelance or agency services.
 git add faq.md
 git commit -m "Add FAQ documentation"
+## Who is this for?
+Creators, marketers, and AI enthusiasts.
+git add faq.md
+git commit -m "Expand FAQ audience section"
 
