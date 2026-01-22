@@ -6,3 +6,6 @@ nano CHANGELOG.md
 - Initial public release
 git add CHANGELOG.md
 git commit -m "Add changelog"
+- Added prompts and workflows
+git add CHANGELOG.md
+git commit -m "Update changelog with features"
