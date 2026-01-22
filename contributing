@@ -1,0 +1,6 @@
+## Code Style
+- Clear naming
+- Small commits
+- Descriptive messages
+git add CONTRIBUTING.md
+git commit -m "Expand contributing guidelines with code style"
